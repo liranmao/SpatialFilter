@@ -39,11 +39,11 @@ Use PS to draw mask manully:
 
 Before filtering,
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/8d9a4999-e204-4780-b424-bcb04f6a9181" />
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/8d9a4999-e204-4780-b424-bcb04f6a9181" />
 
 
 Using filter_cells_by_mask function, you can get cells:
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/6cc74841-010a-4273-97f0-713bfa9faa5c" />
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/6cc74841-010a-4273-97f0-713bfa9faa5c" />
 
 
