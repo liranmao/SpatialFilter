@@ -17,11 +17,11 @@ filtered_obj <- result$filtered_seurat
 
 Overall this function returns a list with these key components:
 
-filtered_seurat: The Seurat object with only cells inside the mask
-in_mask: Logical vector indicating which cells are inside the mask
-cells_in_mask: Cell IDs of all cells inside the mask
-cells_outside_mask: Cell IDs of all cells outside the mask
-mask: The binary mask image used for filtering
-scaling: Alignment parameters (x_scale, y_scale, x_offset, y_offset)
-stats: Summary statistics (total_cells, cells_in_mask, cells_outside_mask, percent_in_mask)
-plot: Visualization of cells by mask status (if visualize=TRUE)
+- filtered_seurat: The Seurat object with only cells inside the mask
+- in_mask: Logical vector indicating which cells are inside the mask
+- cells_in_mask: Cell IDs of all cells inside the mask
+- cells_outside_mask: Cell IDs of all cells outside the mask
+- mask: The binary mask image used for filtering
+- scaling: Alignment parameters (x_scale, y_scale, x_offset, y_offset)
+- stats: Summary statistics (total_cells, cells_in_mask, cells_outside_mask, percent_in_mask)
+- plot: Visualization of cells by mask status (if visualize=TRUE)
