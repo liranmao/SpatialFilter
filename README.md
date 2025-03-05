@@ -30,17 +30,18 @@ Overall this function returns a list with these key components:
 ## Example
 
 We are interested in the spine development and only want cells from that region. Ther following is the image from spatial folder in standard analysis pipeline:
-<img width="878" alt="image" src="https://github.com/user-attachments/assets/8dc91ab8-aae4-4063-a9b0-a7ed101d9897" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/8dc91ab8-aae4-4063-a9b0-a7ed101d9897" />
 
 Use PS to draw mask manully:
-<img width="877" alt="image" src="https://github.com/user-attachments/assets/70e9ff08-d1fe-4e55-9e80-f308c7374ac5" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/70e9ff08-d1fe-4e55-9e80-f308c7374ac5" />
 
 Before filtering,
 
-<img width="309" alt="image" src="https://github.com/user-attachments/assets/8d9a4999-e204-4780-b424-bcb04f6a9181" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/8d9a4999-e204-4780-b424-bcb04f6a9181" />
 
 
 Using filter_cells_by_mask function, you can get cells:
 
-![image](https://github.com/user-attachments/assets/6cc74841-010a-4273-97f0-713bfa9faa5c)
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/6cc74841-010a-4273-97f0-713bfa9faa5c" />
+
 
